@@ -15,12 +15,35 @@
   background-color: pink;
   border: 2px solid green;
   padding: 4px;
-
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 .imgmain {
   float: right;
   padding: 10px;
   border: 2px solid green;
+}
 
+.column1 {
+  width: 300px;
+  float: left;
+  background-color: pink;
+  padding: 20px;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: orange;
+  padding: 20px;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  background-color: blue;
+  padding: 20px;
 }
