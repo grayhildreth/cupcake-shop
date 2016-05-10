@@ -8,3 +8,9 @@
   color: red;
   font-style: bold;
 }
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
