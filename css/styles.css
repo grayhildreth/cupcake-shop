@@ -12,5 +12,8 @@
 .sidebar {
   width: 30%;
   float: right;
-  background-color: yellow;
+  background-color: pink;
+  border: 2px solid green;
+  padding: 4px;
+
 }
